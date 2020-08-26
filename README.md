@@ -1,5 +1,5 @@
 # ModernNLPInPython
-Course offered by Udemy. Created and taught by Martin Jocqueviel, Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team.
+Course offered by Udemy. Created and taught by Martin Jocqueviel, Kirill Eremenko, Hadelin de Ponteves & SuperDataScience Team.
 
 [Course Certificate](https://github.com/MBadriNarayanan/ModernNLPInPython/blob/master/Course%20Certificate.pdf)
 
